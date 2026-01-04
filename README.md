@@ -1,7 +1,7 @@
 
 # Social Media Homepage
 
-A simple social media homepage built using **HTML, CSS, and JavaScript**, inspired by the Instagram UI.
+A simple social media homepage built using **HTML, CSS, and JavaScript**, inspired by the Instagram UI(~Gramify).
 
 ## 🔥 Features
 - Responsive and clean user interface  
@@ -13,6 +13,10 @@ A simple social media homepage built using **HTML, CSS, and JavaScript**, inspir
 - HTML5  
 - CSS3  
 - JavaScript (ES6)
+
+## 📸 Screenshoot
+- ![UI Interface](image.png)
+
 
 ## 🚀 Live Demo
 🔗 https://social-media-homepage-henna.vercel.app/
