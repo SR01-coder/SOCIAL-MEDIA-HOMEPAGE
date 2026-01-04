@@ -24,4 +24,4 @@ A simple social media homepage built using **HTML, CSS, and JavaScript**, inspir
 ## 📂 Project Structure
 - `index.html` – Main HTML file  
 - `style.css` – Styling and layout  
-- `script.js` – UI interactions and logic  
+- `logic.js` – UI interactions and logic  
