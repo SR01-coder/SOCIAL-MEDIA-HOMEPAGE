@@ -1,3 +1,13 @@
+const followbtn = document.getElementById("followbtn");
+followbtn.addEventListener("click", () => {
+    if (followbtn.innerText === "Follow") {
+        followbtn.innerText = "Following";
+        followbtn.classList.add("following");
+    } else {
+        followbtn.innerText = "Follow";
+        followbtn.classList.remove("following");
+    }
+});
 let likebtn = document.querySelector(".likebtn");
 let likecount= document.querySelector(".like-count");
 let commentbtn = document.querySelector(".commentbtn");
