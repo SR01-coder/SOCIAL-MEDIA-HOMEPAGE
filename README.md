@@ -15,7 +15,7 @@ A simple social media homepage built using **HTML, CSS, and JavaScript**, inspir
 - JavaScript (ES6)
 
 ## 🚀 Live Demo
-🔗 https://social-media-homepage-<your-vercel-link>
+🔗 https://social-media-homepage-henna.vercel.app/
 
 ## 📂 Project Structure
 - `index.html` – Main HTML file  
