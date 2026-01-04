@@ -1,9 +1,23 @@
-# SOCIAL MEDIA HOMEPAGE
-a simple social media homepage built using HTML, CSS, and JavaScript.
-- Cloned Platform: Instagram
-- EXTRA FEATURES:
-1. Live deployment on the vercel
-2. Instant UI updates using JavaScript
-3. Clean modular code structure
-## Live Demo
-https://social-media-homepage-henna.vercel.app/
+
+# Social Media Homepage
+
+A simple social media homepage built using **HTML, CSS, and JavaScript**, inspired by the Instagram UI.
+
+## 🔥 Features
+- Responsive and clean user interface  
+- Instant UI updates using JavaScript  
+- Modular and well-structured code  
+- Live deployment using Vercel  
+
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript (ES6)
+
+## 🚀 Live Demo
+🔗 https://social-media-homepage-<your-vercel-link>
+
+## 📂 Project Structure
+- `index.html` – Main HTML file  
+- `style.css` – Styling and layout  
+- `script.js` – UI interactions and logic  
